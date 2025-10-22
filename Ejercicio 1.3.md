@@ -1,1 +1,1 @@
-![MAGEN MOTO](IMG/DAVIDMIRAVET12.PNG)
+![MAGEN MOTO](img/davidmiravet12.png)
